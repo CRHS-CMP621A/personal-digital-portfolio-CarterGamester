@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  gap: 5px;
+  height: 750px;
+}
+
+.container {
+  display: grid;
+  grid-row: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-style: initial;
+}
+
+.About {
+  background-color: coral;
+  grid-template-columns: 1/2;
+}
+
+.Socail {
+  background-color: coral;
+  grid-template-columns: 2/4;
+}
+
+.Gallery {
+  background-color: coral;
+  grid-template-columns: 4/5;
+}
+
+body {
+  background-color: royalblue;
+  color: aliceblue;
+}
