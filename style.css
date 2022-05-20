@@ -11,6 +11,11 @@
   font-style: initial;
 }
 
+.header {
+  background-color: burlywood;
+  font-size: 24px;
+}
+
 .About {
   background-color: coral;
   grid-template-columns: 1/2;
