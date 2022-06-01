@@ -14,24 +14,28 @@
 .header {
   background-color: burlywood;
   font-size: 24px;
+  padding: 14px 16px;
 }
 
 .About {
   background-color: coral;
   grid-template-columns: 1/2;
   height: 750px;
+  padding: 4px;
 }
 
 .Socail {
   background-color: coral;
   grid-template-columns: 2/4;
   height: 500px;
+  padding: 4px;
 }
 
 .Gallery {
   background-color: coral;
   grid-template-columns: 4/5;
   height: 500px;
+  padding: 4px;
 }
 
 body {
