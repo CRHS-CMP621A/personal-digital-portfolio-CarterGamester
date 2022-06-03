@@ -117,13 +117,13 @@ body {
 
 .Img2 {
   background-color: transparent;
-  grid-template-columns: 2/4;
+  grid-template-columns: 2/3;
   height: 750px;
 }
 
 .Img3 {
   background-color: transparent;
-  grid-template-columns: 4/5;
+  grid-template-columns: 3/4;
   height: 750px;
 }
 
